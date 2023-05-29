@@ -1,5 +1,5 @@
 # PythonParsing
-Using "https://openlibrary.org/trending/forever" for parsing
+Using "https://openlibrary.org/trending/forever" for parsing. 
 Parsing news data from website and sort it in CSV file
 
 
